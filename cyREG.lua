@@ -1,5 +1,3 @@
--- Justin Moser 2013
-
 props=require("propcase")
 tv=get_prop(props.TV)
 
